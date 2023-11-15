@@ -68,6 +68,9 @@ $query = "INSERT INTO berita (title, gambar, deskripsi, penulis, tanggal, topik)
         }
     }
 
-
+function hallodek($data){
+ $halo = "halokak";
+ return $halo;
+}
 
 ?>
